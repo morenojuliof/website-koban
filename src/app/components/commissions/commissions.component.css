@@ -1,0 +1,22 @@
+.selection-koban {
+    background: #03bcbe; /* fallback for old browsers */   
+}
+
+.commissions {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-end;
+}
+img {
+    width: 70%;
+    max-width: 70%;
+    height: auto;
+}
+
+.title{
+    color: #ffffff !important;
+}
+.category {
+    color: #ffffff !important;
+}

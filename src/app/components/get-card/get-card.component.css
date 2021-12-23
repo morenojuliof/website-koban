@@ -1,0 +1,26 @@
+.selection-koban {
+    background: rgb(6,133,237);
+    background: linear-gradient(274deg, rgba(6,133,237,1) 0%, rgba(3,188,190,1) 50%, rgba(0,244,152,1) 100%);
+}
+.downloadStepImage {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.downloadStepText {
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+}
+.category{
+    text-align: center;
+}
+.row{
+    justify-content: center;
+}
+.stepNumer{
+    color: #ffffff;
+}
